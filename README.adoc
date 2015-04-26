@@ -1,2 +1,11 @@
-# cloupesshuffle
-Resolution of a probabilistic problem of 4 couples siting in a row. 
+= Cloupes Shuffle
+
+1) Quatro casais compraram tickets para o teatro, todos os oito com assentos na mesma fileira de 
+8 poltronas. Se eles escolhem seus assentos de maneira completamente aleatória, qual a 
+probabilidade que Jim e Paula (casados) sentem nas duas poltronas no canto esquerdo? Qual a 
+probabilidade que Jim e Paula se sentem um do lado do outro? Qual a probabilidade de que 
+pelo menos uma es posa se sente ao lado de seu esposo?
+
+De:
+
+http://homepages.dcc.ufmg.br/~jussara/metq/metq-lista-2013-1.pdf
