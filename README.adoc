@@ -1,0 +1,2 @@
+# cloupesshuffle
+Resolution of a probabilistic problem of 4 couples siting in a row. 
